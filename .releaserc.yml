@@ -5,4 +5,5 @@ branches:
   prerelease: true
 plugins:
 - "@semantic-release/commit-analyzer"
-- "@semantic-release/git"
+- "@semantic-release/github"
+- "@semantic-release/release-notes-generator"
