@@ -1,4 +1,5 @@
 branches:
+- master
 - main
 - name: dev
   prerelease: true
