@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/hagzag/sr-test2/compare/v1.0.3...v1.0.4) (2024-1-21)
+
+
+### Bug Fixes
+
+* add release-notes-generator take II ([886b5f6](https://github.com/hagzag/sr-test2/commit/886b5f682f580263d37270596050d267f9fe045b))
+
 ## [1.0.3](https://github.com/hagzag/sr-test2/compare/v1.0.2...v1.0.3) (2024-1-21)
 
 
